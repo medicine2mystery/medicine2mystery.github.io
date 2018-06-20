@@ -12,6 +12,11 @@ body {
 }
 h1{
   margin-bottom:100px; 
+  color:green;
+}
+h2 {
+  margin-bottom:40px;
+  color:red;
 }
 hr {
   max-width: 65px;

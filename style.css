@@ -4,10 +4,7 @@ html {
   width: 100%;
   height: 100%; 
 }
-body:hover{
-  backgroung-image:url("marij.jpg") ;
-  background-sixe: cover ; 
-}
+
 body {
   font-family: 'Montserrat', sans-serif;
 }
@@ -26,7 +23,7 @@ hr {
 
 header.startup {
   background-position: center;
-  background-image: url("mrij.jpg");
+  background-image: url("header.jpg");
   background-size: cover;
   height: 100%;
 }

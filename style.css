@@ -6,6 +6,7 @@ html {
 }
 body:hover{
   backgroung-image:url("header.jpg") ;
+  background-sixe: cover ; 
 }
 body {
   font-family: 'Montserrat', sans-serif;
